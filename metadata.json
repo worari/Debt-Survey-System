@@ -1,0 +1,6 @@
+{
+  "name": "ระบบจัดการหนี้สินกำลังพล",
+  "description": "ระบบจัดการหนี้สินกำลังพล ทบ. พร้อมระบบวิเคราะห์สุขภาพการเงิน และระบบแนะนำการเชื่อมต่อฐานข้อมูล Google Sheets ด้วย Google Apps Script",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
